@@ -13,8 +13,8 @@
 I’m a **Data Engineer** passionate about designing scalable data architectures and insightful BI solutions.  
 My work bridges the gap between **data engineering** and **business intelligence**, ensuring end-to-end visibility from raw data to meaningful dashboards.
 
-- ☁️ Experienced in **Azure (Data Factory, Synapse, Data Lake)**, **Power BI**, **MSBI Suite** and **SQL Server** 
-- 📊 Skilled in **Power BI** — including **DAX modeling**, **data transformations**, and **performance optimization**  
+- ☁️ Experienced in **Azure (Data Factory, Synapse, Data Lake)**
+- 📊 Skilled in **Power BI** — including **DAX modeling**, **data transformations**, and **performance optimization**, **MSBI Suite** and **SQL Server** 
 - 🔧 Specialized in **ETL/ELT**, **data lakehouse design**, and **SLA-driven data workflows**  
 - ⚙️ Building reliable **data pipelines** for analytics and AI integration  
 
