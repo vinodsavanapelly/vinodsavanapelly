@@ -1,28 +1,90 @@
-<h1 align="center">Hi 👋, I'm Vinod Savnapelly</h1>
-<h3 align="center">Data Engineer and BI Consultant</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodsavanapelly&label=Profile%20views&color=0e75b6&style=flat" alt="vinodsavanapelly" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinodsavanapelly" alt="vinodsavanapelly" /></a> </p>
-
-- 🌱 I’m currently learning **Agentic ai**
-
-- 👯 I’m looking to collaborate on **Cloud projects**
-
-- 💬 Ask me about **Data and BI related**
-
-- 📫 How to reach me **vinodsavanapelly21@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinod savanapelly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod savanapelly" height="30" width="40" /></a>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/header-light.gif" alt="Vinod - Data Engineer" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+<h1 align="center">👋 Hi, I'm Vinod</h1>
+<h3 align="center">🚀 Data Engineer | Cloud Data Architect | Power BI Developer</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodsavanapelly&show_icons=true&locale=en&layout=compact" alt="vinodsavanapelly" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodsavanapelly&show_icons=true&locale=en" alt="vinodsavanapelly" /></p>
+### 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodsavanapelly&" alt="vinodsavanapelly" /></p>
+I’m a **Data Engineer** passionate about designing scalable data architectures and insightful BI solutions.  
+My work bridges the gap between **data engineering** and **business intelligence**, ensuring end-to-end visibility from raw data to meaningful dashboards.
+
+- ☁️ Experienced in **Azure (Data Factory, Synapse, Data Lake)**  
+- 🧰 Skilled in **Python**, **PyTorch**, **Pandas**, **PySpark**, and **SQL Server**  
+- 📊 Skilled in **Power BI** — including **DAX modeling**, **data transformations**, and **performance optimization**  
+- 🔧 Specialized in **ETL/ELT**, **data lakehouse design**, and **SLA-driven data workflows**  
+- ⚙️ Building reliable **data pipelines** for analytics and AI integration  
+
+---
+
+### ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,aws,azure,databricks,git,linux,sqlserver,powerbi" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,docker,vscode,visualstudio,pandas" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VinodSavanapelly&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VinodSavanapelly&theme=tokyonight" />
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+| 💡 Project | 🧠 Description | 🛠️ Tech |
+|-------------|----------------|----------|
+| **SLA Monitoring Framework** | Logic for SLA breach calculation excluding weekends, holidays, and after-hours. | SQL Server, Python |
+| **Cloud Data Pipeline Automation** | Automated ingestion from multi-source systems via ADF and Databricks. | Azure, Databricks, Python |
+| **YOY Billing Trend Forecasting** | Power BI report for year-over-year and peak volume predictions. | Power BI, DAX, SQL |
+| **Predictive Maintenance ML Model** | Anomaly detection using time-series data and PyTorch. | Python, PyTorch, Pandas |
+| **Data Quality Dashboard** | Power BI dashboard for SLA compliance and data pipeline performance. | Power BI, SQL Server |
+
+---
+
+### ☁️ Current Focus
+
+- 🚀 Developing **Power BI dashboards** connected to **Azure & SQL Server**  
+- 🔧 Automating **ETL pipelines** in **Databricks and Azure Data Factory**  
+- 🤖 Building **ML-ready data layers** with **PyTorch & Pandas**  
+- 📈 Implementing **data quality frameworks** and **SLA breach analytics**  
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vinodsavanapelly21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vinodsavanapelly21@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/VinodSavanapelly" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Fact
+> “Data Engineering + Power BI = Turning complexity into clarity.”  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VinodSavanapelly&theme=onedark&row=1&column=6&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=VinodSavanapelly.VinodSavanapelly" alt="visitor badge"/>
+</p>
