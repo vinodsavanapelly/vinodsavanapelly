@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Vinod</h1>
-<h3 align="center">🚀 Data Engineer | Cloud Data Architect | Power BI Developer</h3>
+<h3 align="center">🚀 Data Engineer | BI Suite </h3>
 
 ---
 
