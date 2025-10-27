@@ -23,7 +23,7 @@ My work bridges the gap between **data engineering** and **business intelligence
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,aws,azure,databricks,git,linux,sqlserver,powerbi" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,Cloud Computing,azure,databricks,git,sqlserver,powerbi, MSBI" /><br/>
   <img src="https://skillicons.dev/icons?i=github,docker,vscode,visualstudio,pandas" />
 </p>
 
