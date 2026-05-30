@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<p align="center"> 
+<p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/header-light.gif" alt="Vinod - Data Engineer" width="100%" />
 </p>
 
